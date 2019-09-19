@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dados>
+  <pessoas>
+    <id>1</id>
+    <nome>Albert Einstein</nome>
+    <profissao>Cientista</profissao>
+    <pais>Alemanha</pais>
+  </pessoas>
+  <pessoas>
+    <id>2</id>
+    <nome>Michael Jordan</nome>
+    <profissao>Atleta</profissao>
+    <pais>Estados Unidos</pais>
+  </pessoas>
+  <pessoas>
+    <id>3</id>
+    <nome>Fred Mercury</nome>
+    <profissao>Cantor</profissao>
+    <pais>Inglaterra</pais>
+  </pessoas>
+  <pessoas>
+    <id>1</id>
+    <nome>Vladimir Putin</nome>
+    <profissao>Político</profissao>
+    <pais>Rússia</pais>
+  </pessoas>
+</dados>
